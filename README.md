@@ -1,7 +1,7 @@
 Seminarki rad iz Osnova mehanike na temu "Putanja kroz tornado".
 
-Luka Matić,
+Luka Matić
 
-Stefan Šljivić,
+Stefan Šljivić
 
 Đuro Cerović
