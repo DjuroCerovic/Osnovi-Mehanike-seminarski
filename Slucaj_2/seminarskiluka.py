@@ -55,7 +55,7 @@ while (r[i,2] >= 0.0) and (i < n - 1):
     # Ojler-Kromerova metoda
     a[i] = aa
     v[i+1] = v[i] + vremenskiKorak * aa
-    r[i+1] = r[i] + vremenskiKorak * v[i]
+    r[i+1] = r[i] + vremenskiKorak * v[i+1]
     t[i+1] = t[i] + vremenskiKorak
 
     if i % 1000 == 0:
